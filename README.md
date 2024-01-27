@@ -1,4 +1,4 @@
-### Estatísticas
+### INFORMATION
 
 <div align="center">
   <a href="https://github.com/raulmss">
@@ -17,14 +17,11 @@
   
   ##
   
-  ### Sobre mim:
+  ### About me:
   
-  - 🌱 Busco me especializar em tecnologias Java. No momento, meu foco está voltado para o ambiente Spring, mas estou sempre aberto para novos desafios.
+  - 🌱 I'm a java enthusiast. I enjoy learning about it and putting it into practice using Spring.
   
-  - 👯 Tenho grande interesse em DEVOPS, assunto que deverá ser meu próximo foco.
-  
-  
-  
+  I'm currently persuing a Master's Degree in Computer Science at the Maharishi International University (MIU).
   
 <div> 
   <a href = "mailto:raul.soutos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
