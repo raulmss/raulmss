@@ -6,12 +6,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulmss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div><br>
   
   <img align="center" alt="Raul-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Raul-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />  
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <br>    <h3>Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=raulmss&theme=algolia">
+
+  <h3>LeetCode</h3>
+  
+  <img align="center" src="https://leetcard.jacoblin.cool/raulmss?theme=nord&font=Ubuntu">
  
 </div>
   
@@ -19,7 +28,11 @@
   
   ### About me:
   
-  - 🌱 I'm a java enthusiast. I enjoy learning about it and putting it into practice using Spring.
+⚡ Passionate software developer with 2 years of experience in developing, optimizing, and supporting 
+sophisticated systems for various educational institutions, including projects such as the SIG Environment 
+(SIGAA, SIPAC and SIGRH) and Quark Edu. Strong knowledge of requirement analysis, technical 
+specifications, designing and developing web applications. Hands on experience in JSF, REACT.JS, 
+Java, Spring Boot, GIT, SQL, and AGILE methodologies.
   
   I'm currently persuing a Master's Degree in Computer Science at the Maharishi International University (MIU).
   
