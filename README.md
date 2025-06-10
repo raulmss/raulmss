@@ -19,8 +19,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raulmss&theme=algolia">
 
   <h3>LeetCode</h3>
-  
-  <img align="center" src="https://leetcard.jacoblin.cool/raulmss?theme=nord&font=Ubuntu">
  
 </div>
   
