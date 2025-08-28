@@ -26,13 +26,11 @@
   
   ### About me:
   
-⚡ Passionate software developer with 2 years of experience in developing, optimizing, and supporting 
+⚡ Passionate software developer with experience in developing, optimizing, and supporting 
 sophisticated systems for various educational institutions, including projects such as the SIG Environment 
 (SIGAA, SIPAC and SIGRH) and Quark Edu. Strong knowledge of requirement analysis, technical 
 specifications, designing and developing web applications. Hands on experience in JSF, REACT.JS, 
 Java, Spring Boot, GIT, SQL, and AGILE methodologies.
-  
-  I'm currently persuing a Master's Degree in Computer Science at the Maharishi International University (MIU).
   
 <div> 
   <a href = "mailto:raul.soutos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
